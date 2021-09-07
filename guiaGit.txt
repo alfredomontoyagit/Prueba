@@ -1,0 +1,40 @@
+Curso GIT
+
+
+Historial de cambios
+
+Staging area 
+	(punto de preparación, 
+	se coloca las partes del progueso que se quiere guardar en comit)
+
+Ramas
+
+
+
+inicializar GIT
+ git init
+
+configurar usuarios
+
+*git config --global user.name "Mi nombre"
+*git config --global user.email "Mi correo"
+
+*git status (estado general del proyecto)
+
+Llevar los archivos al staging area
+	Paara hacerlo debo mover los cambios deseados al staging area
+*git add "ruta del archivo" (Se ponen verdes)
+
+Crear un commit...comprometer (Es la foto)
+*git comit -m "Mensaje"
+
+Ver commit
+*git log (forma larga)
+*git log --oneline (forma resumida)
+
+
+
+Correocion
+
+
+
